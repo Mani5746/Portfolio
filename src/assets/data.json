@@ -1,0 +1,34 @@
+{
+  "projects": [
+    {
+     
+      "title": "SNAPPY",
+      "description": "Real Time Chat Application by Socket.io and Node Js Having Login and Sign-in Functionality Also engaged with Log-Out and Setting Avatar for particular Individual",
+      "url": "/#home",
+      "imgSrc": "https://i.morioh.com/2022/07/26/264c3032.webp"
+    },
+
+    {
+      "title": "MI STORE",
+      "description": "Designed and developed a clean and modern  Optimized website for speed and user experience utilized responsive design to ensure compatibility across all devices",
+
+      "url": "https://mistore-master.vercel.app/",
+      "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAaVBMVEX/SgD/////PwD/s6X/VBr/oYr/RgD/cEr/hWn/PAD/NgD/8On/ybv/5uD/WRz/+vj/r5z/u6v/d1L/TxH/t6r/e1n/XjD/lXv/rZz/pI//hGT/aUD/2tD/ZDX/jXD/6+X/wbH/0cb/iGy8+96zAAACkElEQVR4nO3d3VKjMBiA4XyosUlbftvFYrXdvf+LXNFxZg1Jf2apyDfvc+ARZfJOECojwUivqLrc6JJ3VfHeZvofpXN26hGNzjpXfhbWfurR3IivPwrrbOqR3ExW94Wl1hns+VJM4aYexU25wlTKCyvT6TuL/st2Rtt1MKS9DwAAAAAAAAAAAAAAAAAAAAAAAP/BZmOzlz6QlPj42IG/Nndjetq13XPm3QUDbaI72GxHTrSPcgPLVdv4MyO19/HP7kZ+MvQ2hb39wp0ca6rwYTaFbzPZnppHDYUi65f0g546CkXK5DRqKZR96uKhplCW9/FEPYVS5NFERYVSRGdRU6EsY7+LqgplH1ngQVehlMProrJCeRkcp9oK14PjVFuhvIYDV1d4CCdRXaGEf9nqK1wFp9OpCw/raxyK84XhmkBTF279VbKmO56rfPx6mE5duLjyfpC1LmtPNwY3YOZW2Mvc8VTh8ethOsdCY3x7ojD4cjrPQuMW6cK1ikLjH5KFBx2Fxu9ThUslhbbRXmjcnfbC5CSqKTT+t/ZC+6q+0GgvNG4510IbNdwucUn8+YVNHjXcp1vNszDbxbcc3rKfbWHiGyeFFFJIIYUUUkghhRRSSCGFFFJIIYUUUkghhRRSSCGFFFJIIYUUUkghhRRSSCGFFFJIIYUUUkghhd9R+Gey/2Qffb22+Jp7m+fhSh3b+Op8zXCfbXTLp2Do37TmXmrdxNgDJfEtL99nuNn3rJsIAAAAAAAAAAAAAAAAAAAAAAAALSKvDlElN53uh2tsZ6rha6I1cZUJ32uqjCuMlJHXmavhSzEi9chPKv4gWS19odRaZ9G/Bb4XSumcvjOqda6Uz0Ipqk7bdTHvqo+3Dv8FWs5Rj8ujr4UAAAAASUVORK5CYII="
+    },
+    {
+      "title": "NETFLIX-CLONE",
+      "description": " Designed and developed a clean and  Fully Fledged website for Netflix Clone of front-end Utilized responsive design to ensure compatibility across all devices",
+      "url": "https://netflix-git-main-mani5746.vercel.app/",
+      "imgSrc": "https://raw.githubusercontent.com/superneutrino8/netlfix-clone/master/src/NetflixClone.jpg"
+    },
+
+    {
+      "title": "WEATHER APP",
+      "description": "Designed and developed a clean and modern Optimized website for speed and user experience  Utilized responsive design to ensure compatibility across all devices",
+      "url": "https://manisri18.netlify.app/",
+      "imgSrc": "https://i.ytimg.com/vi/Rq6pd-pWzBw/maxresdefault.jpg"
+    }
+
+    
+  ]
+}
