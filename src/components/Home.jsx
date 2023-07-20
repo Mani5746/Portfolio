@@ -71,7 +71,7 @@ const Home = ({ ratio }) => {
           <article>
             <p>
               +
-              {ratio < 2 && (
+              {(
                 <motion.span
                   whileInView={animationClientsCount}
                   ref={clientCount}
@@ -85,7 +85,7 @@ const Home = ({ ratio }) => {
             <article>
               <p>
                 +
-                {ratio < 2 && (
+                {(
                   <motion.span
                     ref={projectCount}
                     whileInView={animationProjectsCount}
